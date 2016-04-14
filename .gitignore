@@ -4,3 +4,6 @@
 */cache/*
 */cache/!index.html
 */cache/!.htaccess
+application/common/ci_session
+application/admin/config/database.php
+application/frontend/config/database.php
